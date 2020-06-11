@@ -1,0 +1,39 @@
+/* CSS Document */
+
+#news{
+	width:750px;
+	margin:0 auto;
+	border:solid #CCC 1px;
+	padding-bottom:10px;
+	padding-left:15px;
+	padding-right:15px;
+	padding-top:5px;
+	background-image:url(images/dangqi.png);
+	background-repeat:no-repeat;/*设置背景图片为一个*/
+	background-position:right center;/*设置背景图片位置*/
+}
+h2{
+	font-family:"黑体";
+	font-weight:bold;
+}
+h4{
+	font-family:"黑体";
+	color:#999;
+}
+p{
+	text-indent:2em;
+	font-family:"仿宋";
+	line-height:27px;
+	font-weight:bold;
+}
+
+.keyword{
+	color:#F00;
+	font-style:italic;
+}
+.tu{
+	border:solid #C33 7px;
+	padding:5px;
+	margin-right:20px;
+	margin-bottom:13px;
+}
